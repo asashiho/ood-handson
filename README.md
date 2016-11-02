@@ -17,8 +17,9 @@
 * 簡単なLinuxコマンドがわかる方
 * Google Cloud Platformのアカウントをお持ちの方
 
-<img src="https://raw.githubusercontent.com/wiki/asashiho/docker-handson/images/sample.png" width="500px">
+<img src="https://raw.githubusercontent.com/wiki/asashiho/ood-handson/images/sample.png" width="500px">
 
 ## ハンズオン資料
 [コンテナによるマイクロサービスのデプロイ/管理入門～事前準備編～](https://docs.com/asashiho/4390)
+[コンテナによるマイクロサービスのデプロイ/管理入門～実践編～](https://docs.com/asashiho/5345)
 
